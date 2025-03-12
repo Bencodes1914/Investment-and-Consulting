@@ -167,6 +167,7 @@ body {
  font-size: 16px;
  line-height: 1.6;
  margin-bottom: 30px;
+ text-align: left;
 }
 
 .close-btn {
@@ -434,7 +435,7 @@ body {
  margin-bottom: 40px;
 }
     
-.section-title {
+.section-title2 {
  font-size: 36px;
  font-weight: bold;
  margin-bottom: 15px;
@@ -578,7 +579,7 @@ body {
  font-size: 36px;
  font-weight: bold;
  margin-bottom: 15px;
- color: #333;
+ color: white;
 }
    
 .section-subtitle {
